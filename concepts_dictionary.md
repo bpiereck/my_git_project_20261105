@@ -19,7 +19,7 @@
 `git config --global user.email “your_email@domain.com”`
 
 # Conceptual areas
-
+hahahahah
 1. Develpment area:
 
 2. Staging area:
